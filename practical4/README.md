@@ -1,49 +1,16 @@
-Conversion.c File
+Practical04
+This is the Fourth practical where the program calculates the approximate area under the curve of the tangent function between 0° and 60° using the trapezoidal rule.
 
-3. How many binary digits are there in the number and how many can a float/real represent.
-4. Let’s say we want to check the number of binary digits. Construct an expression in the code
-that will do this.
+Compile:
+gcc -o trap2 trap2.c -lm
+Execute:
+./trap2
+output:
 
+TanArr[0] = 0.000000 TanArr[1] = 0.087489 TanArr[2] = 0.176327 TanArr[3] = 0.267949 TanArr[4] = 0.363970 TanArr[5] = 0.466308 TanArr[6] = 0.577350 TanArr[7] = 0.700208 TanArr[8] = 0.839100 TanArr[9] = 1.000000 TanArr[10] = 1.191754 TanArr[11] = 1.428148
 
-To calculate how many binary digits (bits) there are in an integer, we can use the formula:
+Initial area (sum at x(0) and x(12)) = 0.000000 The value of the sum after the loop is: 14.197204
 
-numdigits=log2(inum)
+Trapezoidal result is: 0.619470 Real result is:0.693147
 
-I used the log function from the math.h library to implement. 
-The formula to calculate the number of binary digits is:
-
-numdigits=log2(inum)=log(inum)log(2)
-
-We have the formula for Binary Digits
-
-numdigits = (int) ceil(log(inum) / log(2));
-This calculates the number of binary digits needed to represent the integer inum.
-
-log(inum) computes the natural logarithm of inum.
-log(2) computes the natural logarithm of 2 (since log_2(x) = log(x)/log(2)).
-ceil() rounds up to the nearest integer.
-Displaying the Result: The binary representation of inum is computed and printed, 
-and the number of binary digits is also displayed using the line:
-
-
-Sum.c File 
-
-Understanding the Problem:
-First Sum (sum1):
-
-sum1 is calculated by adding terms in the order:
-1+ 1/2 + 1/3 + 1/4 +  .....+1/1000
- 
-It starts from 1 and goes up to 1000.
-
-Second Sum (sum2):
-
-sum2 is calculated by summing the same terms but in reverse order:
-1/1000 +1/999 +1/998 +...+1
-Objective:
-
-Complete the code to calculate sum2 (which is the same as sum1, just in reverse).
-Print out both sums and the difference between them (diff).
-
-
-
+The program calculates and prints the tangent values for each interval, followed by the intermediate area computed using the trapezoidal rule. It then displays the final trapezoidal result and compares it with the actual value of log(2).
