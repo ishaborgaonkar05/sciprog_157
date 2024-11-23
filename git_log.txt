@@ -1,0 +1,131 @@
+commit 7e079b65a883f4cb00ec8f62ac1a651b3d8196e5
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-11-20 23:29:16 +0000
+
+Add Practical9 Codes
+
+commit 9c4953cf22b1b9e6c51dd3ab355f1c43f9473401
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-10-22 14:20:55 +0100
+
+Initial commit
+
+commit 099fb08eb0f7c0f35c658712ce2604fe6eb8c278
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-11-20 23:31:04 +0000
+
+Add Practical8 Codes
+
+commit be98101f87e2408409739c9eeb36353dce376956
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-11-20 23:30:48 +0000
+
+Delete README.md
+
+commit 8afbe4a9c94a102df5eafdaab1eb0cf4f4dd6e47
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-11-20 23:27:06 +0000
+
+Add Practical7 Codes
+
+commit 9c4953cf22b1b9e6c51dd3ab355f1c43f9473401
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-10-22 14:20:55 +0100
+
+Initial commit
+
+commit 1494a0084ec5cb059a6e91242c468f5c1cf17fc1
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-11-20 23:32:29 +0000
+
+Add files via upload
+
+commit b5b0bfed25684b9aeb5f1f5cd3423c7c1867e3fa
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-11-20 23:25:22 +0000
+
+Add files via upload
+
+commit 9c4953cf22b1b9e6c51dd3ab355f1c43f9473401
+Author: Isha Borgaonkar <ishaborgaonkar05@gmail.com>
+Date: 2024-10-22 14:20:55 +0100
+
+Initial commit
+
+commit 12ac0e231ef7db4ab97e4327501498e91313db73
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-10-31 15:30:34 +0000
+
+Add Practical6
+
+commit 9f89c6f284654083055add0cb9b4f6f816075f37
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-10-31 14:23:41 +0000
+
+Create adsf
+
+commit 69e25d78ca50f4aace8d4fae5a955a13bf5842b3
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-11-01 00:42:33 +0000
+
+Update README.md
+
+commit c9c135f8c8e8e67f2d991d639533d8cc7d8591cc
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-10-31 15:29:14 +0000
+
+Add practical5
+
+commit 1eefa276a3918034304a4f284aa40dbd8aac9717
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-10-31 14:22:54 +0000
+
+Create practical5
+
+commit 08c44cb86faecd6187e4907ba046fc4546f081fa
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-11-01 00:41:37 +0000
+
+Update README.md
+
+commit a9e908be1d69103088f8ac65c594d65e03220847
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-10-31 15:27:13 +0000
+
+Add practical4 Code
+
+commit 696d13bae9fb146339443b3b26aba6c8383f9829
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-10-31 14:00:39 +0000
+
+Create hjjkj
+
+commit f5b40b740c75ac30aa0670e73fdd088d3a27ea43
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-11-01 00:40:48 +0000
+
+Update README.md
+
+commit 6bcf96c75938fdd8ab0e4a3fdf061a9ca4837ded
+Author: <Isha Borgaonkar <ishaborgaonkar05@gmail.com>>
+Date: 2024-10-31 15:24:44 +0000
+
+Add Practical3 Codes
+
+commit 6e5285c22e0b81c9511317f2f1d333d2defe1087
+Author: "Isha Borgaonkar" <ishamborgaonkar@gmail.com>
+Date: Wed Oct 23 00:57:49 2024 +0100
+
+    Add Practical2 Codes
+
+commit cbb835c15e2c83aa01410a50bb998026899592ba
+Author: "Isha Borgaonkar" <ishaborgaonkar05@gmail.com>
+Date: Thu Oct 31 16:20:35 2024 +0000
+
+    Update README.md
+
+commit 87efa520729efd872a1b6dbb1734c04536a37a95
+Author: "Isha Borgaonkar" <ishamborgaonkar@gmail.com>
+Date: Tue Oct 22 20:39:31 2024 +0100
+
+    Add Practical1 Codes
