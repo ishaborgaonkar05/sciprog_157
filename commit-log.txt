@@ -1,0 +1,35 @@
+commit 7061103e0a31171d0d524948d64a1f2bcb5ea84e
+Author: Isha Borgaonkar <ishamborgaonkar@gmail.com>
+Date:   Thu Oct 31 12:31:23 2024 +0000
+
+    Add Practical Codes
+
+commit 80d019a79836f0e514651e33124b2fbb7a5a4fca
+Author: Isha Borgaonkar <ishamborgaonkar@gmail.com>
+Date:   Fri Oct 25 19:37:08 2024 +0100
+
+    Add Practical4 Codes
+
+commit 982259cae197fd46d5149907ec9b42f8c447f7e4
+Author: Isha Borgaonkar <ishamborgaonkar@gmail.com>
+Date:   Fri Oct 25 19:34:18 2024 +0100
+
+    Add Practical3 Codes
+
+commit 6e5285c22e0b81c9511317f2f1d333d2defe1087
+Author: Isha Borgaonkar <ishamborgaonkar@gmail.com>
+Date:   Wed Oct 23 00:57:49 2024 +0100
+
+    Add Practical Codes
+
+commit 87efa520729efd872a1b6dbb1734c04536a37a95
+Author: Isha Borgaonkar <ishamborgaonkar@gmail.com>
+Date:   Tue Oct 22 20:39:31 2024 +0100
+
+    Add Practical1 Codes
+
+commit c1b2d90ed6af7c99e3d24a26c573cb837e716832
+Author: Isha Borgaonkar <ishamborgaonkar@gmail.com>
+Date:   Tue Oct 22 14:54:23 2024 +0100
+
+    Add Introduction to Git Assignment
