@@ -1,6 +1,6 @@
 
 GIT Assignment 
-*Student Details: Name: Isha Borgaonkar Student number: 24209758  Sciprog id:sciprog_157 *
+Student Details: Name: Isha Borgaonkar Student number: 24209758  Sciprog id:sciprog_157
 
 Introduction: This repository is maintained for ICHEC 24-25 Scientific Programming Concepts. It includes code from weekly labs that can run smoothly on the sciprog. Every weekly practical is kept in its designated development branch and then smoothly integrated into the main branch.
 
